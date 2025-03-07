@@ -9,6 +9,7 @@ public class Cuenta {
 		// Saldo de la cuenta bancaria en euros
 		this.numero = numCta;
 		this.saldo = saldoCta;
+		// NUevo comentariodfdgfdgdfghghhgfghf
 	}
 
 	// Método para obtener el número de cuenta
